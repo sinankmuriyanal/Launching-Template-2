@@ -4,7 +4,7 @@ document.getElementById('launchButton').addEventListener('click', function () {
     }
     setTimeout(function () {
         window.location.href = "https://basefoundation.in";
-    }, 100);
+    }, 1500);
 });
 
 function createConfetti() {
