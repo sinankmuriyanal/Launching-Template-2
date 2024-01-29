@@ -3,7 +3,7 @@ document.getElementById('launchButton').addEventListener('click', function () {
         createConfetti();
     }
     setTimeout(function () {
-        window.location.href = "https://basefoundation.in";
+        window.location.href = "https://faraid-app.onrender.com/";
     }, 1500);
 });
 
